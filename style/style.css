@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.title{
+    text-align: center;
+    color: #F0F8EA;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-family: 'Gloria Hallelujah';
+}
+
+.container{
+    height: 100vh; 
+    width: 100vw; 
+    background: #33658A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.game-container{
+    min-width: 340px;
+    min-height: 490px;
+    padding: 0;
+    margin: 0;
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 390px) {
+    .title{
+        font-size: 25px;
+        padding: 0;
+    }
+}
+
+
+
+/* Signature */
+.signature{
+    color: #F0F8EA;
+    font-family: Roboto, sans-serif;
+    padding-top: 45px;
+  }
+   
+  .signature__name{
+    transition: .5s;
+    color: #40C9A2;
+    text-decoration: none;
+  }
+   
+  .signature__name:hover{
+    color: #35A585;
+    text-decoration: underline;
+    transition: .5s;
+  }
+   
+  .svg-icon {
+    width: 1em;
+    height: 1em;
+    animation: pulse-animation .5s alternate infinite;
+    fill: #BA2632;
+  }
+   
+  @keyframes pulse-animation{
+    100%{transform: scale(1.2);}
+  }
