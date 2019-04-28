@@ -6,4 +6,11 @@
 [![floppy-bord-04.png](https://i.postimg.cc/6pYfnJmQ/floppy-bord-04.png)](https://postimg.cc/SnY9b5q0)
 [![floppy-bord-05.png](https://i.postimg.cc/bvrHRC79/floppy-bord-05.png)](https://postimg.cc/FftLrZsY)
 
-# [PLAY HERE](https://www.dagerzuga.com/floppybord/)
+
+***
+
+
+<h1 align="center">
+  <a href="https://www.dagerzuga.com/floppybord/">🎮 PLAY HERE 🎮</a>
+</h1>
+
