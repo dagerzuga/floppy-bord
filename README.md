@@ -1,5 +1,3 @@
-# floppy bord
-
 [![floppy-bord-01.png](https://i.postimg.cc/pXMCtBjP/floppy-bord-01.png)](https://postimg.cc/ThQgVgQs)
 [![floppy-bord-02.png](https://i.postimg.cc/gkyDc6y8/floppy-bord-02.png)](https://postimg.cc/nCz70rPh)
 [![floppy-bord-03.png](https://i.postimg.cc/Gmcj4hzN/floppy-bord-03.png)](https://postimg.cc/rKP4bTBC)
