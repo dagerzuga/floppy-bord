@@ -43,7 +43,7 @@
 .signature{
     color: #F0F8EA;
     font-family: Roboto, sans-serif;
-    padding-top: 45px;
+    padding-top: 20px;
   }
    
   .signature__name{
@@ -67,4 +67,29 @@
    
   @keyframes pulse-animation{
     100%{transform: scale(1.2);}
+  }
+
+  .ribbon {
+    background-color: #40C9A2;
+    overflow: hidden;
+    white-space: nowrap;
+    position: absolute;
+    right: -50px;
+    top: 40px;
+    -webkit-transform: rotate(45deg);
+       -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+         -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+  }
+  .ribbon a {
+    border: 2px solid #498C8A;
+    color: #F0F8EA;
+    display: block;
+    font: bold 81.25% Roboto, sans-serif;
+    margin: 1px 0;
+    padding: 10px 50px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 0 5px #444;
   }
